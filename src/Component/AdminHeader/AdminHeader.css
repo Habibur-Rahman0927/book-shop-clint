@@ -1,0 +1,34 @@
+.dashborad{
+    height: 98vh;
+    background: #19103F;
+    width: 20%;
+    position: absolute;
+}
+.headLine{
+    padding: 1px;
+    color: white;
+    text-decoration: none;
+}
+.headLine:hover{
+    color: white;
+}
+.HeadStyle{
+    margin: 18px;
+}
+.ulstyle{
+    list-style-type: none;
+    margin: 35px;
+}
+.ulstyle li {
+    margin: 25px 0px;
+}
+.ulstyle li a{
+    color: white;
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 20px;
+}
+.iconStyle{
+    color: white;
+    margin: 0px 6px;
+}

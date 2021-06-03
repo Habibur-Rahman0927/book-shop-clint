@@ -1,0 +1,25 @@
+.allinput{
+    position: relative;
+}
+.allinput{
+    margin-left: 20%;
+    padding: 20px;
+    background-color: #F1F7FC;
+    border-radius: 50px;
+}
+.firstInput, .secondInput{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 20px;
+}
+.inp{
+    border: none;
+    border-bottom-color: gray !important;
+    border-bottom-style: solid !important;
+    border-bottom-width: 1px !important;
+    height: 30px;
+    width: 295px;
+    padding: 10px;
+    background: none;
+}

@@ -1,0 +1,31 @@
+.img{
+    height: 300px;
+    width: 260px;
+}
+.cardDisplay{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 50px;
+    justify-content: center;
+}
+.allCard{
+    box-shadow: 5px 5px 20px 10px #f1f1f1;
+    border-radius: 20px;
+    margin: 20px;
+}
+.back{
+    background-color: #fff;
+    padding: 7px;
+    border-radius: 20px;
+}
+.cardImg{
+    padding: 26px 50px;
+    background-color: #F1F1F1;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+.btnstyle{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
